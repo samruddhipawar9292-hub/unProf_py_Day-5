@@ -58,8 +58,8 @@ A beginner-friendly Python project that extracts useful information from raw tex
 **Matches**
 
 - 30/06/2026
-- 30-06-2026
-- 2026-06-30
+- 01-07-2026
+- 2026-07-07
 
 ---
 
